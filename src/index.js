@@ -4,7 +4,9 @@ const messages = [
     "Ni hao",
     "Hallo",
     "Bonjour",
-    "Olá"
+    "Olá",
+    "Hej",
+    "Ciao"
 ]
 
 const randomMsg = () => {
