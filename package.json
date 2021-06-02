@@ -1,0 +1,20 @@
+{
+  "name": "random_messages",
+  "version": "1.0.0",
+  "description": "random test messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Juan Felipe Barahona Gonzalez <jfbarahonag@unal.edu.co>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
